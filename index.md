@@ -32,13 +32,13 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
 
 **Additional Ruby Katas**
-*Find most of my solutions at my Ruby_Katas repo
+*Find most of my solutions at my ruby_katas repo*
 
 * [Greed Dice Game: Koans Kata] ✔
 * [Bowling Game] *in progress*
 * [FizzBuzz] ✔
 * [Convert Numbers to Words] *in progress*
-* [Game of Life]*in progress*
+* [Game of Life] *in progress*
 
 **Additional Resources:**
 
