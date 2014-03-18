@@ -7,24 +7,24 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 **Reading:**
 
 * [Getting Real][], 37signals
-* [Passionate Programmer][], Chad Fowler
+* [Passionate Programmer][], Chad Fowler ✔
 
 **Training:**
 
-* [CodeSchool: Try Git][]
-* [CodeSchool: Git Real 2][]
-* [CodeSchool: Git Real][]
-* [Sparkbox how_to][]: your first experience with Git
-* [More Git][]: more Git practice
+* ~~[CodeSchool: Try Git][]~~ ✔✔
+* ~~[CodeSchool: Git Real 2][]~~ ✔✔✔
+* ~~[CodeSchool: Git Real][]~~ ✔✔
+* ~~[Sparkbox how_to][]: your first experience with Git~~ ✔
+* ~~[More Git][]: more Git practice~~ ✔
 
-* [Git Training Exercise: Clone this repo and edit the index.md file to add the exercise to the list.][]
-* [CodeSchool: Try Ruby][]
-* [Ruby setup][]: set up your machine for running Ruby
+* ~~[Git Training Exercise: Clone this repo and edit the index.md file to add the exercise to the list.][]~~ ✔
+* ~~[CodeSchool: Try Ruby][]~~✔
+* ~~[Ruby setup][]: set up your machine for running Ruby~~ ✔
 * [Ruby koans][]: let's start learning Ruby
-* [CodeSchool: Ruby Bits 1][]
+* ~~[CodeSchool: Ruby Bits 1][]~~ ✔
 * [CodeSchool: Ruby Bits 2][]
 * [CodeSchool: Testing with RSpec][]
-* [Triangle Kata - Ruby][] *with test suite*
+* ~~[Triangle Kata - Ruby][] *with test suite*~~ ✔
 * [Game of Life Kata - Ruby][] *with test suite*
 * Game of Life - Git: push your project to Github for review
 * Game of Life - Review: code review your project with your technical director
