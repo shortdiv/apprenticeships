@@ -16,7 +16,6 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * ~~[CodeSchool: Git Real][]~~ ✔✔
 * ~~[Sparkbox how_to][]: your first experience with Git~~ ✔
 * ~~[More Git][]: more Git practice~~ ✔
-
 * ~~[Git Training Exercise: Clone this repo and edit the index.md file to add the exercise to the list.][]~~ ✔
 * ~~[CodeSchool: Try Ruby][]~~✔
 * ~~[Ruby setup][]: set up your machine for running Ruby~~ ✔
@@ -31,6 +30,15 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * [Ruby Warriors][]
 * Game of Life - Refactor: implement changes discussed in review
 * Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
+
+**Additional Ruby Katas**
+*Find most of my solutions at my Ruby_Katas repo
+
+* [Greed Dice Game: Koans Kata] ✔
+* [Bowling Game] *in progress*
+* [FizzBuzz] ✔
+* [Convert Numbers to Words] *in progress*
+* [Game of Life]*in progress*
 
 **Additional Resources:**
 
